@@ -7,4 +7,4 @@
 4. [Lab 04](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab%2004.ipynb): Implement Linear Regression using Boston Housing Data
 5. [Lab 05](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab_05.ipynb):Implement Logistic Regression using Titanic Ship Data
 6. [Lab 06](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab_06.ipynb):Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
-7. [Lab 07]():
+7. [Lab 07](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab%2007.ipynb):Implement Support Vector Machine using Breast Cancer Data
