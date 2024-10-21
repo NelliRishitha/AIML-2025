@@ -9,3 +9,4 @@
 6. [Lab 06](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab_06.ipynb):Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab%2007.ipynb):Implement Support Vector Machine using Breast Cancer Data
 8. [Lab 08](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab_08.ipynb): Implement Decision Tree Classifier using Lending Club Data
+9. [Lab 09]():Implement Random Forest Ensemble Classifier using Lending Club Data
