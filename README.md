@@ -10,4 +10,4 @@
 7. [Lab 07](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab%2007.ipynb):Implement Support Vector Machine using Breast Cancer Data
 8. [Lab 08](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab_08.ipynb): Implement Decision Tree Classifier using Lending Club Data
 9. [Lab 09](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab_09.ipynb):Implement Random Forest Ensemble Classifier using Lending Club Data
-10. [Lab 10]():Implement K-Means Clustering using Iris Data
+10. [Lab 10](https://github.com/NelliRishitha/AIML-2025/blob/main/Lab_10.ipynb):Implement K-Means Clustering using Iris Data
